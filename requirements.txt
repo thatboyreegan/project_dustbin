@@ -1,3 +1,5 @@
+Authlib==1.2.1
 Flask==2.3.2
+python-dotenv==1.0.0
 setuptools==68.0.0
 setuptools==59.6.0
